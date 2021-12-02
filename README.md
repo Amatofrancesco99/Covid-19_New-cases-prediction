@@ -13,7 +13,7 @@
 
 **[Covid-19](https://www.who.int/health-topics/coronavirus#tab=tab_1) fourth wave it's close** in Italy, but how we can know when the situation starts to be critical?
 <br>
-Since past events we know that the new positives growth is almost an exponential, when a wave starts, so we want to predict the future trend, with a **good model**, knowing *a priori* what happened in previous days.
+Since past events we know that the new positives growth is almost an exponential, when a wave starts, so we want to predict the future trend, with a **good model**, knowing what happened in previous days.
 <br>
 We also know that new positives, intensive care unit admissions and deaths are strictly correlated. When one increases, also the others are increasing in the same order of magnitde.
 <br>
