@@ -5,8 +5,6 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/Amatofrancesco99/Covid-19_New-positives-prediction/blob/main/LICENSE)
 <br>
 
-***
-
 <h4><em>“Numbers have an important story to tell. They rely on you to give them a voice.”</em>–Stephen Few</h4>
 
 ***
