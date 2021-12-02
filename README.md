@@ -47,3 +47,27 @@ Are you interested about this argument?
 All the data I am using are public and provided by the [Dipartimento della Protezione Civile (DPC)](https://www.protezionecivile.gov.it/it/).
 <br>
 You can also find the public data at this [github link](https://github.com/pcm-dpc/COVID-19).
+
+***
+
+<h3> 🚀💻 Workplace configuration </h3>
+
+Before downloading the .ipynb file, you should enable the dark theme on your jupyter notebook, in order to see graphs and other items in a proper way.
+So you have to run the following lines of code in your terminal/command prompt:
+```
+pip install jupyterthemes
+jt -t chesterish
+```
+
+Finally, you have to run the following code snippet, in order to get all the libraries that have been used in the project:
+```
+pip install DateTime
+pip install ipywidgets
+pip install python-math
+pip install matplotlib
+pip install numpy
+pip install pandas
+pip install patsy
+pip install random2
+pip install -U scikit-learn
+```
