@@ -24,7 +24,7 @@ Obviously the prediction is really complicated, because a **lot of variables hav
 <br><br>
 As you may understood by the previous lines, the aim of this project is finding a good model to predict future trend, using **statistical learning theory**.
 <br>
-The regression function that have been used are the following one:
+The regression functions that have been used are the following one:
  *  *[Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)*
  *  *[Polynomial Regression](https://en.wikipedia.org/wiki/Polynomial_regression)*
  *  *[Lasso Regression](https://en.wikipedia.org/wiki/Lasso_(statistics))*
