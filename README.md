@@ -30,21 +30,14 @@ The regression function that have been used are the following one:
  *  *[Lasso Regression](https://en.wikipedia.org/wiki/Lasso_(statistics))*
  *  *[Ridge Regression](https://www.mygreatlearning.com/blog/what-is-ridge-regression/)*
  *  *[Natural Cubic Splines](https://towardsdatascience.com/numerical-interpolation-natural-cubic-spline-52c1157b98ac)*
-***
-
-<h3>📚🤔 Deepening:</h3>
-
-Are you interested about this argument? 
- * Read this beautiful book : [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf).
- * You can also see another of my project: [Gas consumption prediction](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
-
+ 
 ***
 
 <h3>💾👨🏻‍💻 Data Origin </h3>
 
-All the data I am using are public and provided by the [Dipartimento della Protezione Civile (DPC)](https://www.protezionecivile.gov.it/it/).
+All data are public and provided by the [Dipartimento della Protezione Civile (DPC)](https://www.protezionecivile.gov.it/it/).
 <br>
-You can also find the public data at this [github link](https://github.com/pcm-dpc/COVID-19).
+You can also find them at this [github link](https://github.com/pcm-dpc/COVID-19).
 
 ***
 
@@ -69,3 +62,11 @@ pip install pandas
 pip install patsy
 pip install -U scikit-learn
 ```
+
+***
+
+<h3>📚🤔 Deepening:</h3>
+
+Are you interested about this argument? 
+ * Read this beautiful book : [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf).
+ * You can also see another of my project: [Gas consumption prediction](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
