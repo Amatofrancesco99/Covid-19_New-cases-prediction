@@ -69,4 +69,4 @@ pip install -U scikit-learn
 
 Are you interested about this argument? 
  * Read this beautiful book : [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf).
- * You can also see another of my project: [Gas consumption prediction](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
+ * You can also see another project: [Gas consumption prediction](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
