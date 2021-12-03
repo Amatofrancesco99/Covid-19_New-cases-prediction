@@ -50,7 +50,7 @@ You can also find the public data at this [github link](https://github.com/pcm-d
 
 <h3> 🚀💻 Workplace configuration </h3>
 
-Before downloading the .ipynb file, you should enable the dark theme on your jupyter notebook, in order to see graphs and other items in a proper way.
+Before downloading the [source code](https://github.com/Amatofrancesco99/Covid-19_New-positives-prediction/blob/main/Covid-19%20Italy%20trend.ipynb), you should enable the dark theme on your jupyter notebook, in order to see graphs and other items in a proper way.
 So you have to run the following lines of code in your terminal/command prompt:
 ```
 pip install jupyterthemes
@@ -66,6 +66,5 @@ pip install matplotlib
 pip install numpy
 pip install pandas
 pip install patsy
-pip install random2
 pip install -U scikit-learn
 ```
