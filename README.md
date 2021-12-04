@@ -33,7 +33,7 @@ The regression functions that have been used are the following one:
  
 ***
 
-<h3>💾👨🏻‍💻 Data Origin </h3>
+<h3>💾👨🏻‍💻 Data origin </h3>
 
 All data are public and provided by the [Dipartimento della Protezione Civile (DPC)](https://www.protezionecivile.gov.it/it/).
 <br>
