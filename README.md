@@ -1,8 +1,10 @@
-<h1> Covid-19_New-positives-prediction</h1>
+<h1> Covid-19_New-cases-prediction</h1>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/Amatofrancesco99/Covid-19_New-positives-prediction/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Amatofrancesco99/Covid-19_New-positives-prediction/blob/main/LICENSE)
+![](https://komarev.com/ghpvc/?username=Covid-19_New-cases-prediction&label=Views&style=plastic&color=brightgreen)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <br>
 
 <h4><em>“Numbers have an important story to tell. They rely on you to give them a voice.”</em>–Stephen Few</h4>
@@ -13,9 +15,9 @@
 
 **[Covid-19](https://www.who.int/health-topics/coronavirus#tab=tab_1) fourth wave it's close** in Italy, but how we can know when the situation starts to be critical?
 <br>
-Since past events we know that the new positives growth is almost an exponential, when a wave starts, so we want to predict the future trend, with a **good model**, knowing what happened in previous days.
+Since past events we know that the new cases growth is almost an exponential, when a wave starts, so we want to predict the future trend, with a **good model**, knowing what happened in previous days.
 <br>
-We also know that new positives, intensive care unit admissions and deaths are strictly correlated. When one increases, also the others are increasing in the same order of magnitde.
+We also know that new cases, intensive care unit admissions and deaths are strictly correlated. When one increases, also the others are increasing in the same order of magnitde.
 <br>
 Building a good model is essential in order to **avoid** taking **bad decisions** (for example lockdown when not needed, or no restrictions when needed).
 <br>
