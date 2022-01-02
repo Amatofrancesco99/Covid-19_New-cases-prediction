@@ -7,7 +7,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 
+***
+
 <h4><em>“Numbers have an important story to tell. They rely on you to give them a voice.”</em>–Stephen Few</h4>
+<a href="https://docs.google.com/presentation/d/1GxXtf65feDc7ZNtABGUt2pjF7ecDwETuKml_4s52j0Y/edit?usp=sharing"><strong>PRESENTATION</strong></a>
 
 ***
 
