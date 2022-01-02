@@ -1,7 +1,7 @@
 <h1> Covid-19_New-cases-prediction</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Amatofrancesco99/Covid-19_New-positives-prediction/blob/main/LICENSE)
-![](https://komarev.com/ghpvc/?username=Covid-19_New-cases-prediction&label=Views&style=plastic&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Covid-19New-cases-prediction&label=Views&style=plastic&color=brightgreen)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
