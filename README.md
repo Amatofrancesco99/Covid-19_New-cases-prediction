@@ -10,7 +10,7 @@
 ***
 
 <h4><em>“Numbers have an important story to tell. They rely on you to give them a voice.”</em>–Stephen Few</h4>
-<a href="https://docs.google.com/presentation/d/1GxXtf65feDc7ZNtABGUt2pjF7ecDwETuKml_4s52j0Y/edit?usp=sharing"><strong>PRESENTATION</strong></a>
+<a href="https://drive.google.com/file/d/171QlCbBfby-rZobvU8pvqZC_jNnp94bj/view?usp=sharing"><strong>PRESENTATION</strong></a>
 
 ***
 
